@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+   <string name="email"> E-mail :</string>
+   <string name="emailhint">   Votre adresse e-mail...</string>
+   <string name="pass"> Mot de passe :</string>
+   <string name="passhint">   Votre mot de passe...</string>
+   <string name="btn1"> Se connecter </string>
+   <string name="session"> Garder ma session active </string>
+   <string name="forget"> mot de passe oublié? </string>
+   <string name="or"> ou </string>
+   <string name="noCompte">Vous n\'avez pas encore de Compte ? </string>
+   <string name="signup"> inscriver-vous ici </string>
+</resources>

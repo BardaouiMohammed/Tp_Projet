@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email"> E-mail :</string>
+    <string name="emailhint">   Your e-mail adresse...</string>
+    <string name="pass"> Password :</string>
+    <string name="passhint">   Your Password...</string>
+    <string name="btn1"> Login</string>
+    <string name="session"> Keep the session active </string>
+    <string name="forget"> you forgot your password? </string>
+    <string name="or"> ou </string>
+    <string name="noCompte">you still don\'t have an account? </string>
+    <string name="signup"> Subscribe here </string>
+</resources>
